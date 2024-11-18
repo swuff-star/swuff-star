@@ -7,8 +7,11 @@ This GitHub profile is dedicated to uploading, maintaining, and showcasing my mo
 ## Executioner
 A playable character who focuses on chaining abilities and kills together into long streaks of violence.
 ![Executioner1](https://github.com/swuff-star/swuff-star/blob/main/exe-gif1.gif?raw=true)
+
 ![Executioner2](https://github.com/swuff-star/swuff-star/blob/main/exe-gif2.gif?raw=true)
+
 ![Executioner3](https://github.com/swuff-star/swuff-star/blob/main/exe-gif3.gif?raw=true)
+
 ![Executioner4](https://github.com/swuff-star/swuff-star/blob/main/exe-gif4.gif?raw=true)
 
 ## Nemesis Commando
