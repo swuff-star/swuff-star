@@ -10,7 +10,7 @@ A playable character who focuses on chaining abilities and kills together into l
 ## Nemesis Commando
 A playable character who, like Commando, is a balanced fighter at all ranges while focusing on high item procs - though by unqiuely pairing a blade and a gun, rather than dual pistols.
 
-## HUNK
+## HUNK (Standalone)
 A collaboratively made playable character who has a unique type of loot in the form of various equippable firearms that each have limited ammo and must be cycled between and upgraded as they are obtained. My contributions were in the form of implementing weapon spawns in each scene for each HUNK player, as well as the character's 'Utility' skill.
 
 ## Follower & Wayfarer
@@ -47,6 +47,9 @@ A playable character that would dance between foes while fighting with a variety
 
 ## Berserker (Standalone)
 A playable monster that towered over regular playable characters and many common monsters, fighting by grabbing and brutalizing smaller enemies in a variety of ways.
+
+## MULE
+A playable character who gets up close and personal, attempting to lock down enemies long enough to charge up an earth-rippling slam attack.
 
 ## Nemesis Huntress
 A playable character that rewards precision and accuracy, charging and firing a bow with various arrow types that deal extra damage should they hit the enemy's head.
