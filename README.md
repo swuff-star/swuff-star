@@ -66,7 +66,7 @@ A passive NPC who can be interacted with, allowing the player to give an item in
 ## Pyro
 A playable character who heats up the competition, managing a unique 'heat' resource that's earned and spent by various skills.
 
-![Pyro1]()
+![Pyro1](https://github.com/swuff-star/swuff-star/blob/main/pyro-gif1.gif?raw=true)
 ![Pyro2]()
 
 ## Knight
