@@ -28,9 +28,9 @@ A playable character who, like Commando, is a balanced fighter at all ranges whi
 ![NemCom4](https://github.com/swuff-star/swuff-star/blob/main/nemCom-gif4.gif?raw=true)
 
 ## HUNK (Standalone)
-A collaboratively made playable character who has a unique type of loot in the form of various equippable firearms that each have limited ammo and must be cycled between and upgraded as they are obtained. My contributions were in the form of implementing weapon spawns in each scene for each HUNK player, systems relating to spawning and unlocking said unique spawns, the character's 'Utility' skill, and some behavior of some elite 'virus'-type enemies.
+A collaboratively made playable character who has a unique type of loot in the form of various equippable firearms that each have limited ammo and must be cycled between and upgraded as they are obtained. My contributions were in the form of implementing weapon spawns in each scene for each HUNK player, systems relating to spawning and unlocking said unique spawns, the character's 'Utility' skill which performs a roll only if an attacking enemy is nearby, and some behavior of some elite 'virus'-type enemies.
 
-![Hunk1]()
+![Hunk1](https://github.com/swuff-star/swuff-star/blob/main/hunk-gif1.gif?raw=true)
 ![Hunk2]()
 
 ## Follower & Wayfarer
@@ -45,16 +45,29 @@ Many, many, acquirable NPC followers who are capable of a variety of actions suc
 ## Items: Field Accelerator, Hunter's Sigil, Rusty Jetpack (Lost in Transit), The Toxin (Lost in Transit)
 Not the full extent of acquirable items I've implemented, though ones that felt worth showcasing due to their unique mechanics or visuals:
 
+![Field Accelerator]()
+![Hunters Sigil]()
+![Rusty Jetpack](https://github.com/swuff-star/swuff-star/blob/main/jetpack.gif)
+![The Toxin](https://github.com/swuff-star/swuff-star/blob/main/toxin2.gif?raw=true)
+
 # Previous Modding Works (WIP)
 
 ## Ethereal Run Upgrade
 A set of systems that allows a player to permanently increase the difficulty of their run while playing it, promoting longer runs as players are able to opt into more challenging gameplay in the form of increased run scaling, new stacking elite types, a new elite director, and a variety of miscellaneous effects.
+
+![Ethereal Shrine]()
+![Ethereal Boss]()
+![Ethereal Beam]()
+![Ethereal Elite](https://github.com/swuff-star/swuff-star/blob/main/ethLemBlaz.gif?raw=true)
 
 ## Zanzan the Faded (Scavenger Trader)
 A passive NPC who can be interacted with, allowing the player to give an item in exchange for an item of similar 'value'. 'Value' is an arbitrarily designated value 0-100, reflective of item tier and a randomly generated item preference that is unique to each run. Favorite items have inflated value, potentially allowing a player to potentially bring many of a weak 'favorite' item to increase their value - though, each trade has diminishing returns.
 
 ## Pyro
 A playable character who heats up the competition, managing a unique 'heat' resource that's earned and spent by various skills.
+
+![Pyro1]()
+![Pyro2]()
 
 ## Knight
 A playable character who brawls in melee-range utilizing a traditional sword and shield, rewarding carefully timed parries with combat longevity.
@@ -66,7 +79,9 @@ A collaboratively made survivor from Risk of Rain: Returns, who duels with enemi
 A playable character that would dance between foes while fighting with a variety of bladed weapons. Made as a proof of concept to help an animator understand character setup.
 
 ## Berserker (Standalone)
-A playable monster that towered over regular playable characters and many common monsters, fighting by grabbing and brutalizing smaller enemies in a variety of ways.
+A playable monster that towered over regular playable characters and many common monsters, fighting by grabbing and brutalizing smaller enemies in a variety of ways. When grabbing an enemy, all skills would be swapped to unique actions that could only be performed with an enemy in hand.
+
+![Berserker](https://github.com/swuff-star/swuff-star/blob/main/berserker-gif.gif?raw=true)
 
 ## MULE
 A playable character who gets up close and personal, attempting to lock down enemies long enough to charge up an earth-rippling slam attack.
