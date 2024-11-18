@@ -65,6 +65,9 @@ A komodo dragon-inspired enemy type.
 ## Risk of Rain: First Contact
 A collaborative fangame that reimagines the basics of Risk of Rain 1, though redesigned from the ground up with freely aimed skills, more detailed terrain types, and enemies to fit these new mechanics. I primarily handled implementation of playable characters, monsters, and stages.
 
+## Risk of Rain Returns: Eclipse
+A small Risk of Rain Returns mod in its earliest stages that focuses on porting items from Risk of Rain 2 that are absent in Returns.
+
 <!--
 **swuff-star/swuff-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
