@@ -28,7 +28,7 @@ Not the full extent of acquirable items I've implemented, though ones that felt 
 # Previous Modding Works (WIP)
 
 ## Ethereal Run Upgrade
-A set of systems that allows a player to permanently increase the difficulty of their run while playing it, promoting longer runs as players are able to opt into more challenging gameplay in the form of increased run scaling, new elite types, and a variety of miscellaneous effects.
+A set of systems that allows a player to permanently increase the difficulty of their run while playing it, promoting longer runs as players are able to opt into more challenging gameplay in the form of increased run scaling, new stacking elite types, a new elite director, and a variety of miscellaneous effects.
 
 ## Zanzan the Faded (Scavenger Trader)
 A passive NPC who can be interacted with, allowing the player to give an item in exchange for an item of similar 'value'. 'Value' is an arbitrarily designated value 0-100, reflective of item tier and a randomly generated item preference that is unique to each run. Favorite items have inflated value, potentially allowing a player to potentially bring many of a weak 'favorite' item to increase their value - though, each trade has diminishing returns.
