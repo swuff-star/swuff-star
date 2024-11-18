@@ -1,5 +1,7 @@
 # swuff★
 
+NOTE: Embedded gifs may take a moment to fully load due to quantity and size.
+
 This GitHub profile is dedicated to uploading, maintaining, and showcasing my most significant works, many of which are higlighted throughout this README. Unless otherwise specified, most of this work is within the [Starstorm 2 repository](https://github.com/TeamMoonstorm/Starstorm2), a mod for Risk of Rain 2:
 
 # Previous Modding Works (Completed / Released)
@@ -18,9 +20,9 @@ A playable character who focuses on chaining abilities and kills together into l
 A playable character who, like Commando, is a balanced fighter at all ranges while focusing on high item procs - though by unqiuely pairing a blade and a gun, rather than dual pistols.
 
 ![NemCom1]()
-![NemCom2]()
-![NemCom3]()
-![NemCom4]()
+![NemCom2](https://github.com/swuff-star/swuff-star/blob/main/nemcom-gif2.gif?raw=true)
+![NemCom3](https://github.com/swuff-star/swuff-star/blob/main/nemCom-gif3.gif?raw=true)
+![NemCom4](https://github.com/swuff-star/swuff-star/blob/main/nemCom-gif4.gif?raw=true)
 
 ## HUNK (Standalone)
 A collaboratively made playable character who has a unique type of loot in the form of various equippable firearms that each have limited ammo and must be cycled between and upgraded as they are obtained. My contributions were in the form of implementing weapon spawns in each scene for each HUNK player, systems relating to spawning and unlocking said unique spawns, the character's 'Utility' skill, and some behavior of some elite 'virus'-type enemies.
