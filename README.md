@@ -20,8 +20,11 @@ A playable character who focuses on chaining abilities and kills together into l
 A playable character who, like Commando, is a balanced fighter at all ranges while focusing on high item procs - though by unqiuely pairing a blade and a gun, rather than dual pistols.
 
 ![NemCom1]()
+
 ![NemCom2](https://github.com/swuff-star/swuff-star/blob/main/nemcom-gif2.gif?raw=true)
+
 ![NemCom3](https://github.com/swuff-star/swuff-star/blob/main/nemCom-gif3.gif?raw=true)
+
 ![NemCom4](https://github.com/swuff-star/swuff-star/blob/main/nemCom-gif4.gif?raw=true)
 
 ## HUNK (Standalone)
