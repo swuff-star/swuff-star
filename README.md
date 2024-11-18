@@ -7,12 +7,23 @@ This GitHub profile is dedicated to uploading, maintaining, and showcasing my mo
 ## Executioner
 A playable character who focuses on chaining abilities and kills together into long streaks of violence.
 ![Executioner1](https://github.com/swuff-star/swuff-star/blob/main/exe-gif1.gif?raw=true)
+![Executioner2](https://github.com/swuff-star/swuff-star/blob/main/exe-gif2.gif?raw=true)
+![Executioner3](https://github.com/swuff-star/swuff-star/blob/main/exe-gif3.gif?raw=true)
+![Executioner4](https://github.com/swuff-star/swuff-star/blob/main/exe-gif4.gif?raw=true)
 
 ## Nemesis Commando
 A playable character who, like Commando, is a balanced fighter at all ranges while focusing on high item procs - though by unqiuely pairing a blade and a gun, rather than dual pistols.
 
+![NemCom1]()
+![NemCom2]()
+![NemCom3]()
+![NemCom4]()
+
 ## HUNK (Standalone)
-A collaboratively made playable character who has a unique type of loot in the form of various equippable firearms that each have limited ammo and must be cycled between and upgraded as they are obtained. My contributions were in the form of implementing weapon spawns in each scene for each HUNK player, as well as the character's 'Utility' skill.
+A collaboratively made playable character who has a unique type of loot in the form of various equippable firearms that each have limited ammo and must be cycled between and upgraded as they are obtained. My contributions were in the form of implementing weapon spawns in each scene for each HUNK player, systems relating to spawning and unlocking said unique spawns, the character's 'Utility' skill, and some behavior of some elite 'virus'-type enemies.
+
+![Hunk1]()
+![Hunk2]()
 
 ## Follower & Wayfarer
 An enemy and boss that focus on supporting other monsters rather than directly combating the player.
