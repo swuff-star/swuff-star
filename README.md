@@ -6,6 +6,7 @@ This GitHub profile is dedicated to uploading, maintaining, and showcasing my mo
 
 ## Executioner
 A playable character who focuses on chaining abilities and kills together into long streaks of violence.
+![Executioner1](https://github.com/swuff-star/swuff-star/blob/main/exe-gif1.gif?raw=true)
 
 ## Nemesis Commando
 A playable character who, like Commando, is a balanced fighter at all ranges while focusing on high item procs - though by unqiuely pairing a blade and a gun, rather than dual pistols.
