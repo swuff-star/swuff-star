@@ -19,7 +19,7 @@ A playable character who focuses on chaining abilities and kills together into l
 ## Nemesis Commando
 A playable character who, like Commando, is a balanced fighter at all ranges while focusing on high item procs - though by unqiuely pairing a blade and a gun, rather than dual pistols.
 
-![NemCom1]()
+![NemCom1](https://github.com/swuff-star/swuff-star/blob/main/nemcommando.png?raw=true)
 
 ![NemCom2](https://github.com/swuff-star/swuff-star/blob/main/nemcom-gif2.gif?raw=true)
 
@@ -109,12 +109,14 @@ A playable character that would dance between foes while fighting with a variety
 A collaboratively made survivor from Risk of Rain: Returns, who duels with enemies in melee range to gain scrap which can be spent on skills. I handled most of the prototype, other than the Temporary Item system.
 
 (Unfortunately, lacking gifs to showcase this well in-game!)
+
 ![Drifter](https://github.com/swuff-star/swuff-star/blob/main/drifter.gif?raw=true)
 
 ## Nemesis Captain
 A playable character that - in basic terms - pulls a wide variety of skills from a "deck" (like cards), and can cast them fairly freely via his Special skill, though must manage a unique "stress" resource that is subject to debuffing the player should they fail to respect it.
 
 (Unfortunately, lacking gifs to showcase this well!)
+
 ![NemCap1](https://github.com/swuff-star/swuff-star/blob/main/image.png?raw=true)
 
 ![NemCap2](https://github.com/swuff-star/swuff-star/blob/main/image-133.png?raw=true)
@@ -123,6 +125,7 @@ A playable character that - in basic terms - pulls a wide variety of skills from
 A playable character who brawls in melee-range utilizing a traditional sword and shield, rewarding carefully timed parries with combat longevity.
 
 (Unfortunately, lacking gifs to showcase this well in-game!)
+
 ![Knight](https://github.com/swuff-star/swuff-star/blob/main/knight.png?raw=true)
 
 # Non-RoR2 Mod Works
@@ -144,6 +147,7 @@ A collaborative fangame that reimagines the basics of Risk of Rain 1, though red
 A small Risk of Rain Returns mod in its earliest stages that focuses on porting items from Risk of Rain 2 that are absent in Returns.
 
 (Sadly, no gifs to show these off well!)
+
 ![Items](https://github.com/swuff-star/swuff-star/blob/main/first_contact.png?raw=true)
 
 
