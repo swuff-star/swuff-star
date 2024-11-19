@@ -95,6 +95,8 @@ A playable monster that towered over regular playable characters and many common
 ## MULE
 A playable character who gets up close and personal, attempting to lock down enemies long enough to charge up an earth-rippling slam attack.
 
+![Mule](https://github.com/swuff-star/swuff-star/blob/main/mule.gif?raw=true)
+
 ## Nemesis Huntress
 A playable character that rewards precision and accuracy, charging and firing a bow with various arrow types that deal extra damage should they hit the enemy's head.
 
@@ -127,6 +129,11 @@ A playable character who brawls in melee-range utilizing a traditional sword and
 (Unfortunately, lacking gifs to showcase this well in-game!)
 
 ![Knight](https://github.com/swuff-star/swuff-star/blob/main/knight.png?raw=true)
+
+## Rulebook Menu
+A rudimentary attempt at implementing Risk of Rain Returns-styled rule settings to Risk of Rain 2's character select menu.
+
+![Rules](https://github.com/swuff-star/swuff-star/blob/main/rulesMenu.gif?raw=true)
 
 # Non-RoR2 Mod Works
 
